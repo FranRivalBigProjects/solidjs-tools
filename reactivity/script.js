@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Signals: '+(code.value.match(/createSignal/g)||[]).length;}

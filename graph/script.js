@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Computations: '+(code.value.match(/createEffect|createMemo/g)||[]).length;}

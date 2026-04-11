@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='DOM updates: '+(code.value.match(/innerHTML|textContent/g)||[]).length;}

@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Signal updates: '+(code.value.match(/set[A-Z]/g)||[]).length;}

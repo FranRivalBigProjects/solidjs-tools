@@ -1,0 +1,1 @@
+const res=document.getElementById('res');function run(){res.innerText='Ops/ms: '+(+ops.value/+time.value).toFixed(2);}
